@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {local/share {:local/root "../share"}}}
